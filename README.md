@@ -1,4 +1,4 @@
-<h1 align="center">Emotions Detection - Fresher Training - IIR Lab CSIE NCKU</h1>
+<h1 align="center">Emotions Detection - Fresher Training - IIR Lab</h1>
 
 <!DOCTYPE html>
 <html>
